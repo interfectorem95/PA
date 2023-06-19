@@ -1,0 +1,30 @@
+ {
+	"identifier": "pa.mla.unit.[M.A.R.I.O]-mod",
+	"display_name": "NextGen",
+	"description": "NextGen is an Autonomous Building Mod. The NextGen Mod ushers in a new era of strategic gameplay by introducing the concept of autonomous buildings. Traditionally, energy and metal production have been external aspects, with structures requiring a constant supply. However, NextGen challenges this norm. With this mod, buildings transform into self-sufficient entities, capable of generating their own energy and producing metal. This seismic shift in building mechanics introduces a fresh layer of strategic depth to the game. It's important to note, that 100% efficiency remains a myth. Visualize self-powered forts and independent factories as standalone pillars of resistance. Each building becomes a strategic choice, with each placement either a step towards or away from self-sufficiency. Your gameplay will no longer be solely about conquest, but also about the art of sustainable development in an interplanetary war. NextGen is not just another mod, it's an evolution, a leap into the future of Planetary Annihilation: Titans. It challenges players to adapt to new mechanics, pushing the boundaries of their strategic thinking and planning.",
+	"author": "[M.A.R.I.O]",
+	"signature": "not yet implemented",
+	"forum": "",
+	"priority": 95,
+	"icon": "https://github.com/Ferret-Master/Bug-Faction/blob/main/bugs_icon.png?raw=true",
+	"titansOnly": true,
+	"category": [
+	 "titans",
+   	 "in-game",
+   	 "server",
+  	 "unit",
+   	 "expansion"
+	],
+	"scenes": {
+		"shared_build": [
+			"coui://ui/mods/pa.mla.unit.[M.A.R.I.O]-mod/shared_build.js"
+		],
+		"icon_atlas": [
+			"coui://ui/mods/pa.mla.unit.[M.A.R.I.O]-mod/icon_atlas.js"
+		]
+	},
+	"context": "server",
+	"date": "20223-09-13",
+	"build": "115958",
+	"version": "1.0"
+}
